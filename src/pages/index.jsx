@@ -22,7 +22,7 @@ const Home = () => {
       image:
         "https://images.pexels.com/photos/1092730/pexels-photo-1092730.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
       title: "The Elemental Guide to Vitamins",
-      description: "Vitamins and other supplements are essential in their..",
+      description: "Vitamins and other supplements..",
       clickEvent: sliderClick,
     },
     {
@@ -36,35 +36,35 @@ const Home = () => {
       image:
         "https://images.pexels.com/photos/4056535/pexels-photo-4056535.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
       title: "Yoga and it's uses",
-      description: "Doctors and scientists have said it takes 60 days ..",
+      description: "Doctors have said it takes 60 days to examine ..",
       clickEvent: sliderClick,
     },
     {
       image:
         "https://images.pexels.com/photos/2280549/pexels-photo-2280549.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
       title: "How To Fix Your Hormones",
-      description: "This guide discusses safe, effective, physiological..",
+      description: "This guide discusses safe, physiological..",
       clickEvent: sliderClick,
     },
     {
       image:
         "https://images.pexels.com/photos/6129507/pexels-photo-6129507.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
       title: "Treat Depression Without Medication",
-      description: "A few weeks ago, depression hit me the hardest..",
+      description: "A few weeks ago, depression hit me..",
       clickEvent: sliderClick,
     },
     {
       image:
         "https://images.pexels.com/photos/264636/pexels-photo-264636.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
-      title: "My Most Awesome, Healthy Grocery List",
-      description: "I've done a ton of research and study of nutrition..",
+      title: "My Most Awesome, Grocery List",
+      description: "I've done a ton of research, study of nutrition..",
       clickEvent: sliderClick,
     },
     {
       image:
         "https://images.pexels.com/photos/842554/pexels-photo-842554.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
-      title: "It’s Time to Discuss Black Mental Health",
-      description: "Growing up, we focused on discussing mental health..",
+      title: "It’s Time to Discuss Mental Health",
+      description: "Growing up, we focused on  mental health..",
       clickEvent: sliderClick,
     },
   ];
