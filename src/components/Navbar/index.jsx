@@ -108,6 +108,9 @@ const Navbar = ({ toggle }) => {
             <NavBtn>
               <NavBtnLink to="/signin">Sign In</NavBtnLink>
             </NavBtn>
+            <NavBtn>
+              <NavBtnLink to="/signup">Sign Up</NavBtnLink>
+            </NavBtn>
           </NavbarContainer>
         </Nav>
       </IconContext.Provider>

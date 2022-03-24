@@ -25,7 +25,7 @@ const SignIn = () => {
               <FormInput htmlFor="email" required />
               <FormLabel htmlFor="for">Password</FormLabel>
               <FormInput htmlFor="password" required />
-              <FormButton type="submit">Continue</FormButton>
+              <FormButton type="submit">Sign In</FormButton>
               <Text>Forgot password</Text>
             </Form>
           </FormContent>
