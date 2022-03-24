@@ -44,7 +44,7 @@ export const homeObjThree = {
   topLine: "Security",
   headline: "Data privacy and security is our top priority",
   description:
-    "Data privacy and security has always served as one of the founding philosophies of Practo, and we go to great lengths to safeguard the confidentiality and integrity of our users.",
+    "Data privacy and security has always served as one of the founding philosophies of MedStar, and we go to great lengths to safeguard the confidentiality and integrity of our users.",
   buttonLabel: "Read more",
   imgStart: false,
   img: require("../../images/svg-77.svg").default,
