@@ -9,7 +9,6 @@ import {
   FormH1,
   FormLabel,
   FormButton,
-  Text,
 } from "./SignupElements";
 
 const Signup = () => {
@@ -36,7 +35,6 @@ const Signup = () => {
               <FormLabel htmlFor="for">State</FormLabel>
               <FormInput htmlFor="state" required />
               <FormButton type="submit">Sign Up</FormButton>
-              {/* <Text>Forgot password</Text> */}
             </Form>
           </FormContent>
         </FormWrap>
